@@ -1,9 +1,9 @@
 committee:
-  - role: Developer
-    name: Alexander Rush
-    aff: Cornell Tech, Hugging Face
-    im: https://avatars0.githubusercontent.com/u/35882?s=400&u=8f382f638b31f13a4754656140256241121c5916&v=4
-    tw: srush_nlp
+  - role: Organizer
+    name: Andres Munoz Medina
+    aff: Google Research
+    im: https://images.squarespace-cdn.com/content/v1/5c8fa30d8dfc8c140ce8efa8/1552919808188-M8CZKCXUCQ339W15CTD2/ke17ZwdGBToddI8pDm48kL-XkppnUqZjUkGtD243HatZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw-5FRj3P1aIN9kPKEaHxADgZy0AYBoBrXpc_1A3Row6xmVfO_hwkoKaSwgJ8TDcd0/belize.jpg?format=750w
+    tw: amunoz88
   - role: Developer
     name: Hendrik Strobelt
     aff: MIT-IBM Watson AI Lab
